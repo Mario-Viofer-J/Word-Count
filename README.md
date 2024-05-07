@@ -21,8 +21,8 @@ Display the total words in the file.
 Close the file pointer and end the program.
 ## PROGRAM:
 ~~~
-#Developed by: MARIO VIOFER J
-#Register no: 212223100032
+Developed by: MARIO VIOFER J
+Register no: 212223100032
 num=0
 with open("counttxt.txt","r") as f1:
     for i in f1:
